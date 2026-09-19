@@ -1,0 +1,26 @@
+[
+    {
+        "name": "鬼畜PV",
+        "url": "鬼畜PV",
+        "desc": "一个 CCW 安全审计工具",
+        "target": "_self"
+    },
+    {
+        "name": "鬼畜音频",
+        "url": "鬼畜音频",
+        "desc": "鬼畜的音频部分",
+        "target": "_self"
+    },
+    {
+        "name": "鬼畜填词",
+        "url": "鬼畜填词",
+        "desc": "鬼畜的填词、及解析",
+        "target": "_self"
+    },
+    {
+        "name": "部分歌曲伴奏、Midi",
+        "url": "bgm-and-mid",
+        "desc": "歌曲的伴奏资源",
+        "target": "_self"
+    }
+]
